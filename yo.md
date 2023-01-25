@@ -12,7 +12,7 @@
 
 > *El horario de la mestría está compuesto por trimestres, en la siguiente tabla se muestran las materias que cursaré este semestre*
 
-|        I Trimestre         |        IITrimestre         |
+|        I Trimestre         |        II Trimestre        |
 |:------------------------:  | :-----------------:        |
 |          Métodos I         | Fundamentos investigación  |
 |   Computación estadística  | Métodos II                 |
