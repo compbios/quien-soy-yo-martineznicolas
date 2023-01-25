@@ -12,12 +12,12 @@
 
 > *El horario de la mestría está compuesto por trimestres, en la siguiente tabla se muestran las materias que cursaré este semestre*
 
-                                                  |        I Trimestre         |        IITrimestre         |
-                                                  |:------------------------:  | :-----------------:        |
-                                                  |          Métodos I         | Fundamentos investigación  |
-                                                  |   Computación estadística  | Métodos II                 |
-                                                  |          Probabilidad      | Estadística no parametrica |
-                                                  |Fundamentos investigación   |                            |
+|        I Trimestre         |        IITrimestre         |
+|:------------------------:  | :-----------------:        |
+|          Métodos I         | Fundamentos investigación  |
+|   Computación estadística  | Métodos II                 |
+|          Probabilidad      | Estadística no parametrica |
+|Fundamentos investigación   |                            |
 
 
 ### Intereses personales/Hobbies :dancer:
