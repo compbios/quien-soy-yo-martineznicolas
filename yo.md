@@ -1,6 +1,8 @@
 > # ¿Quién soy yo? 
 
 *Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto quien soy yo*
+:email: a solicitud
+
 
 ### Formación académica :closed_book:
 - :one: Psicólogo, Pontificia Universidad Javeriana, Trabajo de grado: [Comprensión social en niños una aproximación desde el contexto](https://repository.javeriana.edu.co/handle/10554/43624)
