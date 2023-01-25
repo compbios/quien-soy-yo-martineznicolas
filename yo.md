@@ -4,7 +4,7 @@
 
 ### Formación académica :closed_book:
 - :one: Psicólogo, Pontificia Universidad Javeriana, Trabajo de grado: [Comprensión social en niños una aproximación desde el contexto](https://repository.javeriana.edu.co/handle/10554/43624)
- - :two: Especialista en medición y evaluación psicológica, Universidad San Buenaventura, Trabajo de grado: ["Validación escala autocompasión"](https://www.psicothema.com/pii?pii=4784)
+ - :two: Especialista en medición y evaluación psicológica, Universidad San Buenaventura, Trabajo de grado: [Colombian Adaptation of the Self-Compassion Scale (SCS)](https://www.psicothema.com/pii?pii=4784)
  - :three:Candidato a magister en bioestadística
 
 > *Esta semana inicié clases de la maestría, en a continuación muestro las materias que veré por tirmestres en este primer semtesre 2023*
