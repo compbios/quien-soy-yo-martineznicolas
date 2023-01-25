@@ -29,10 +29,12 @@
 
 
 ### Este año me planteé una serie de metas o retos (espero todos los pueda cumplir :sweat_smile:), dentro de los que se encuentran
-- [:+1:] Iniciar Maestría :joy:
+- [:+1:] Iniciar Maestría 
 - [:+1:] Hacer ejercicio :swimmer::bicyclist:
 - [:+1:] Pasar tiempo con mi familia :rainbow:
 - [ ] Aprobar todas mis materias
+- [:+1:] Disfrutar el presente
+- [ ] No caer en relaciones tóxicas :sob:
 
 
 [^1]Llevo dos menes practicando la canción, puesto que tengo dificultades con los tiempos de las corcheas
