@@ -39,7 +39,7 @@
 
 :+1: Disfrutar el presente
 
-[ ] No caer en relaciones tóxicas :sob:
+[X] No caer en relaciones tóxicas :sob:
 
 
 
