@@ -29,17 +29,17 @@
 
 
 ### Este año me planteé una serie de metas o retos (espero todos los pueda cumplir :sweat_smile:), dentro de los que se encuentran
-:+1: Iniciar Maestría 
+[:+1:] Iniciar Maestría 
 
-:+1: Hacer ejercicio :swimmer::bicyclist:
+[:+1:] Hacer ejercicio :swimmer::bicyclist:
 
-:+1: Pasar tiempo con mi familia :rainbow:
+[:+1:] Pasar tiempo con mi familia :rainbow:
 
 [ ] Aprobar todas mis materias
 
-:+1: Disfrutar el presente
+[:+1:] Disfrutar el presente
 
-[ X ] No caer en relaciones tóxicas :sob:
+[ ] No caer en relaciones tóxicas :sob:
 
 
 
