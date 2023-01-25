@@ -42,4 +42,7 @@
 [ ] No caer en relaciones tóxicas :sob:
 
 
+
+
+
 [^1]Llevo dos menes practicando la canción, puesto que tengo dificultades con los tiempos de las corcheas
