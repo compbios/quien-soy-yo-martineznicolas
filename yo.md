@@ -8,16 +8,16 @@
 ### Formación académica :closed_book:
 - :one: Psicólogo, Pontificia Universidad Javeriana, Trabajo de grado: [Comprensión social en niños una aproximación desde el contexto](https://repository.javeriana.edu.co/handle/10554/43624)
  - :two: Especialista en medición y evaluación psicológica, Universidad San Buenaventura, Trabajo de grado: [Colombian Adaptation of the Self-Compassion Scale (SCS)](https://www.psicothema.com/pii?pii=4784)
- - :three:Candidato a magister en bioestadística
+ - :three: Maestría en bioestadística (en curso)
 
-> *Esta semana inicié clases de la maestría, en a continuación muestro las materias que veré por tirmestres en este primer semtesre 2023*
+> *El horario de la mestría está compuesto por trimestres, en la siguiente tabla se muestran las materias que cursaré este semestre*
 
-|        I Trimestre         |        IITrimestre         |
-|:------------------------:  | :-----------------:        |
-|          Métodos I         | Fundamentos investigación  |
-|   Computación estadística  | Métodos II                 |
-|          Probabilidad      | Estadística no parametrica |
-|Fundamentos investigación   |                            |
+                                                  |        I Trimestre         |        IITrimestre         |
+                                                  |:------------------------:  | :-----------------:        |
+                                                  |          Métodos I         | Fundamentos investigación  |
+                                                  |   Computación estadística  | Métodos II                 |
+                                                  |          Probabilidad      | Estadística no parametrica |
+                                                  |Fundamentos investigación   |                            |
 
 
 ### Intereses personales/Hobbies :dancer:
