@@ -35,11 +35,12 @@
 
 [:+1:] Pasar tiempo con mi familia :rainbow:
 
-[ ] Aprobar todas mis materias
+[   ] Aprobar todas mis materias
 
 [:+1:] Disfrutar el presente
 
-[ ] No caer en relaciones tóxicas :sob:
+[   ] No caer en relaciones tóxicas :sob:
+
 
 
 
